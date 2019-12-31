@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #eb7a34;
+  border: 1px solid #eb7a34;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -74,15 +74,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #eb7a34;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #eb7a34;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #eb7a34;
   }
 }
 
@@ -101,7 +101,7 @@
 }
 
 .masthead h1 {
-  font-family: 'Varela Round';
+  font-family: 'EB Garamond';
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
@@ -142,7 +142,7 @@
   -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
-  font-family: 'Varela Round';
+  font-family: 'EB Garamond';
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: .15rem;
@@ -150,7 +150,7 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #eb7a34;
 }
 
 .btn-primary:hover {
@@ -187,7 +187,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #eb7a34;
   }
 }
 
@@ -201,7 +201,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #eb7a34;
     border-width: .25rem;
     width: 30%;
   }
@@ -222,7 +222,7 @@
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
-  font-family: 'Varela Round';
+  font-family: 'EB Garamond';
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
@@ -235,18 +235,18 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #eb7a34;
 }
 
 .contact-section .card h4 {
   font-size: 0.8rem;
-  font-family: 'Varela Round';
+  font-family: 'EB Garamond';
   text-transform: uppercase;
   letter-spacing: 0.15rem;
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #eb7a34;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -274,12 +274,12 @@
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: 'Montserrat';
   letter-spacing: 0.0625em;
 }
 
 a {
-  color: #64a19d;
+  color: #eb7a34;
 }
 
 a:focus, a:hover {
@@ -292,11 +292,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #eb7a34 !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #eb7a34 !important;
 }
 
 footer {
